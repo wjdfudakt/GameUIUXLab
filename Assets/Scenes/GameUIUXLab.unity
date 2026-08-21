@@ -1156,7 +1156,7 @@ GameObject:
   m_Component:
   - component: {fileID: 752216591}
   m_Layer: 5
-  m_Name: MonsterBook
+  m_Name: MonsterList
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1711,7 +1711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1014494790}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: MonsterBook
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
